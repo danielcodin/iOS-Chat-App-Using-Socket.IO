@@ -5,9 +5,9 @@ Submitted by: Daniel Tseng
 
 ## Description
 
-[x] Real time communication
-[x] Show the connection status of other users
-[x] Pops a notification when an user enter or leave the chat room
+* [x] Real time communication
+* [x] Show the connection status of other users
+* [x] Pops a notification when an user enter or leave the chat room
 
 ## License
 
